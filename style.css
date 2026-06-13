@@ -50,8 +50,7 @@
 }
 
 .btn: hover{
-    background-color: var(--text-light);
-}
+    background-color: var(--text-light);}
 
 img{
     display: flex;
